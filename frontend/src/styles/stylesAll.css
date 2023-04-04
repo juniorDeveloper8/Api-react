@@ -1,0 +1,11 @@
+body {
+  margin: 0rem;
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+  overflow-y: hidden;
+}
+
+.boton {
+
+  text-align-last: center;
+  margin: 22rem; 
+}
